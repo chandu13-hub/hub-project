@@ -1,0 +1,2 @@
+first line in hub >> file1.txt
+echo first second line in hub
